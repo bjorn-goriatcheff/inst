@@ -1,0 +1,11 @@
+Cython==0.29.5
+datefinder==0.7.0
+docopt==0.6.2
+docutils==0.14
+numpy==1.14.5
+pandas==0.24.1
+Pillow==5.4.1
+regex==2019.2.3
+requests==2.21.0
+StringDist==1.0.9
+statistics==1.0.3.5
